@@ -1,6 +1,8 @@
 # Marinara Engine Accent Color Changer
 A simple extension for [Marinara Engine](https://github.com/Pasta-Devs/Marinara-Engine) that allows changing the accent colors of built-in and compatible themes.
 
+![Example usage screenshot](/Screenshot.png)
+
 ## Usage
 - Grab the latest [release](https://github.com/Decidetto/ME-accent-color-changer/releases/latest).
 - Download and put the `extension.json` file anywhere.
