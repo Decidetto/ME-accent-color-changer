@@ -22,4 +22,4 @@ A simple extension for [Marinara Engine](https://github.com/Pasta-Devs/Marinara-
 ## Compatibility
 Compatible with:
 - The *Default (Marinara)* and *SillyTavern* styles of the built-in theme, in *dark* as well as *light* modes.
-- Any theme that defines its colours using named vars as follows: (TBA)
+- Any theme that defines its colours using named vars as specified in (/THEME_AUTHORS.md)
